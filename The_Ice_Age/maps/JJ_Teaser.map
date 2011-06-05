@@ -1,0 +1,17 @@
+border_size=1
+usage=map
+
+Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs^Efm      , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs^Es       , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs^Efm      , Gs          , Gs^Es       , Gs          , Gs          , Gs^Es       , Gs          , Gs          
+Gs          , Gs          , Gs^Es       , Gs          , Gs          , Gs^Es       , 1 Gs        , Gs          , Gs          , Gs          , Gs^Efm      , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs^Efm      , Gs          , Gs          , Gs          , Gs          , 2 Gs        , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs^Efm      , Gs          , Gs          , Gs          , Gs          , Gs^Es       , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs^Es       , Gs          , Gs          , Gs          , Gs^Es       , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs^Efm      , Gs          , Gs^Es       , Gs          
+Gs          , Gs          , Gs          , Gs^Es       , Gs          , Gs          , Gs          , Gs          , Gs^Es       , Gs          , Gs          , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          

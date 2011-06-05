@@ -1,0 +1,64 @@
+Level 0: Landsman
+Abilities: None
+Hardy and tough, these men of the mountains eke out a living trapping and hunting, or husbanding what livestock and crops can survive in the harsh mountain climate and terrain.
+
+Level 1: Fighter
+Abilities: Firststrike
+When danger threatens, the men of the north are quick to war.  They wear a traditional battedress consisting of a kilt and sash, and wield a spear and a long knife with equal proficiency.
+
+Level2: Warrior
+Abilities: Firststrike
+The better fighters amount the northmen go on to form the small standing army which garrisons the towns of the north.  They improve their training with the spear, and add a broadsword and javelins to their arsenal.
+
+Level 3: Blademaster
+Abilities: Second attack with charge? Keeps ranged? Inspiring charge (leadership, but only applies after a specific attack)?
+Northman Blademasters are not to be trifled with.  Strong and agile, they wield heavy greatswords with the skill and grace of a fencer's foil.  Their reckless charges can batter past even the strongest defences, and their bravery inspires those around them.
+
+Level 3: Spearmaster
+Abilities: Firststrike, steadfast
+Specialists with the spear may become extremely proficient, both in close combat and from a distance.  While the Blademasters break the enemy, the Spearmasters remain, holding the line with a solidity few can match.
+
+Level 1: Archer
+Abilities: None
+The traditional bow of the northlands is a complex composite recurve which requires as much skill to make as it does to wield.  Novice archers are not trusted with such precious tools when they take the dye which marks them out as members of this elite for all to see.
+
+Level 2: Hunter
+Abilities: none, but has blade and pierce ranged
+Archers who show skill with the bow are granted recurves.  This adds significantly to their power as they join their fellows on the long hunts which supply the towns.  Usually, hunters use bladed arrows, to efficiently despatch their prey by bleeding.  But in battle they also carry specialist bodkin headed arrows, designed to punch through even the toughest armour.
+
+Level 3: Bowmaster
+Abilities: marksman? Inspires – leadership but only applies to archer and hunter.
+The greatest test of a northern archer is to quest for the wolf.  They are given bow and a single arrow, and must track and kill one of the great wolves of the mountains.  Success grants them the secrets of bowmaking along with the pelt which they wear.  This distinctive dress makes them stand out in battle, and provides inspiration to other archers.
+
+Level 1: Herbalist
+Abilities: Cures
+There is much herb lore to be learned in the mountains.  Whilst the vegetation is sparse, there is a lot of benefit to be gained from it if you know where to look.  The best place to begin is learning the names and identifications of the numerous purgatives and antidotes which can cure the effects of most poisons.
+
+Level 2: Healer
+Abilities: Heals +4, cures
+Deeper study of the lore reveals an enormous number of materials which can be used for poultices and restoratives, giving wounded and exhausted soldiers a new lease of life on the battlefields.
+
+Level 3: Druid
+Abilities: heals +8, cures, poison ranged
+There are potent substances to be found in the mountains, if you know where to look.  Only the most responsible and trusted healers are taught about them, since they have applications both positive and negative.  They can heal with near-magical proficiency, or prove to be powerful poisons.
+
+Level 1: Rider
+Riders patrol the mountains, delivering messages and keeping order, sheriffs by default in the disparate communities that are usually too small to need them.  They carry simple sabres to defend themselves.
+
+Level 2: Raider
+The sheer hardship of life in the North makes active warfare a somewhat rare occurrence.  But circumstances sometimes lead mean down that path.  And a Northman on the back of a hardy mountain pony wielding a simple bow and torch strikes fear into most of his neighbours.
+
+Level 3: Conqueror
+Abilities: mountain ambush
+When the armies of the North are roused, they can bring down fire and death on their enemies with great proficiency and speed.  Conquerors are adept at using the mountains to their advantage, setting up devastating traps and ambushes.
+
+Names:
+
+Glethyn – compound of north men in welsk
+Glenthyn
+Genthyn?
+Glennoth?
+Gennoth?
+Finnoth?
+Finthyn Mountain men in welsh
+Dillethyn? Hill men in welsh
